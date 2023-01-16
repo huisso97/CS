@@ -19,8 +19,12 @@
 ## Commit Convention
 
 - 업로드
-  feat : 학습날짜 섹션명
+  Head : 날짜 CS Study n일차 
+  
+  Content : 책제목 
   <br />
-  ex) feat : 03장 자바스크립트 개발 환경과 실행 방법
+  230116 CS study 1일차
+
+  모던 자바스크립트 DeepDive 1-3
 - 수정 혹은 추가 내역
   fix : 학습날짜 섹션명
