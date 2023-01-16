@@ -19,12 +19,12 @@
 ## Commit Convention
 
 - 업로드
-  Head : 날짜 CS Study n일차 
-  
-  Content : 책제목 
-  <br />
+
+  Head : 날짜 CS Study n일차
+
+  Content : 책제목
+
+- 예시
   230116 CS study 1일차
 
   모던 자바스크립트 DeepDive 1-3
-- 수정 혹은 추가 내역
-  fix : 학습날짜 섹션명
